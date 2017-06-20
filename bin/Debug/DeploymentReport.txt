@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [Media] (Schema)
+       [Media].[Series] (Table)
+       [Media].[Actor] (Table)
+       [Media].[Studio] (Table)
+       [Media].[ResourceCategory] (Table)
+       [Media].[ResourceType] (Table)
+       [Media].[Resource] (Table)
+       [Media].[Site] (Table)
+       [Media].[Post] (Table)
+
+** Supporting actions

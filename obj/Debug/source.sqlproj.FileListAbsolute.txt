@@ -1,0 +1,9 @@
+C:\git\collect\source\bin\Debug\source.dacpac
+C:\git\collect\source\obj\Debug\source.dll
+C:\git\collect\source\obj\Debug\source.pdb
+C:\git\collect\source\bin\Debug\source.dll
+C:\git\collect\source\bin\Debug\source.pdb
+C:\git\collect\source\obj\Debug\Model.xml
+C:\git\collect\source\obj\Debug\refactor.xml
+C:\git\collect\source\obj\Debug\postdeploy.sql
+C:\git\collect\source\obj\Debug\predeploy.sql
